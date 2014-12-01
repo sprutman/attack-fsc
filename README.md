@@ -7,7 +7,7 @@ Changelog 2014-11-30:
 - Fixed CD error
 - Added password-protection
 - Added custom command-dictionary
-- 
+
 Future changes:
 - Encryption
 - Automatic updates
