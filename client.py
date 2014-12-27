@@ -140,17 +140,7 @@ x = raw_input("> ")
 if x == "1":
 	while True:
 		try:
-			HOST = raw_input("""
-|	   #####  ######  ######  #     # ####### 	|
-|	  #     # #     # #     # #     #    #    	|
-|	  #       #     # #     # #     #    #    	|
-|	   #####  ######  ######  #     #    #    	|
-|	        # #       #   #   #     #    #    	|
-|	  #     # #       #    #  #     #    #    	|
-|	   #####  #       #     #  #####     #    	|
-|         ~^^sprutybackdoor@port1337^^~			|
-|           !!3NT3R H0$T T0 C0NN3CT!!			|
-HOST: """)
+			HOST = raw_input("> ")
 			print "Host is:", HOST
 			if HOST == "close":
 				sys.exit()
